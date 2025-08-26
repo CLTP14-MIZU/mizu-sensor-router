@@ -1,0 +1,5 @@
+data/HEPTA_SENSOR.h.i
+data/Hepta9axis.lib.i
+data/HEPTA_SENSOR.cpp.i
+data/HeptaTemp.lib.i
+data/HeptaCamera_GPS.lib.i
